@@ -15,5 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-<img src="https://giphy.com/embed/3kPDmoWdBpQPNhCnUG" width="480">
+
+
+https://media1.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif?cid=ecf05e47masvr99lx4xg6cbc370jtbe0w1q6ubxxvd0rr7mt&ep=v1_gifs_related&rid=giphy.gif&ct=s
+
+
+
+
 </div>
