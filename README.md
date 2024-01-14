@@ -79,5 +79,5 @@ I am a DevOps, Web Developer and cyber security enthusiast <img src="https://med
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Deep912&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deep912&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deep912)](https://github.com/anuraghazra/github-readme-stats)
