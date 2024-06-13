@@ -37,11 +37,11 @@ Here are some ideas to get you started:
 
 I am a DevOps, Web Developer and cyber security enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m workin
+- :telescope: I’m working on something, but I won't tell ya
 
 - :seedling: Exploring Reactjs and DevOps 
 
-- :zap: In my free time, I Love to travel and explore nacture
+- :zap: In my free time, I Love to travel and explore nature 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deep-chhegaliya/)
 
